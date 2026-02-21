@@ -1,0 +1,5 @@
+name = "mill-pond-offices-coming-soon"
+compatibility_date = "2026-02-21"
+
+[site]
+bucket = "./"
